@@ -1,6 +1,6 @@
 # hackatime-pebble
 
-i asked my clanker to make ts for my pebble time 2 so i can track activities which could cause severe adverse health outcomes (insanity, blood clots, etc.). obviously this will help, _right?_
+i asked my clanker to make ts for my pebble time 2 so i can track activities which could cause severe adverse health outcomes (insanity, blood clots, etc.). obviously this will help me touch grass more, _right?_
 
 
 <img width="200" alt="watch with hackatime stats on it" src="https://github.com/user-attachments/assets/0d4fe356-48c9-4e99-b3ff-e30c74d747b7" />
