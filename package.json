@@ -1,0 +1,38 @@
+{
+  "name": "hackatime",
+  "author": "matmanna",
+  "version": "1.0.0",
+  "keywords": [
+    "pebble-app"
+  ],
+  "private": true,
+  "capabilities": [
+    "configurable"
+  ],
+  "dependencies": {
+    "pebble-clay": "~1.0.4"
+  },
+  "pebble": {
+    "displayName": "Hackatime",
+    "uuid": "f452d191-1741-470b-a351-67bcfafcb4c2",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "emery"
+    ],
+    "watchapp": {
+      "watchface": false
+    },
+    "messageKeys": [
+      "RequestFetch",
+      "TotalSeconds",
+      "Streak",
+      "Languages",
+      "Projects",
+      "Error"
+    ],
+    "resources": {
+      "media": []
+    }
+  }
+}

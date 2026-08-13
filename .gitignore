@@ -1,0 +1,5 @@
+build/
+node_modules/
+.waf3-*/
+*.pbw
+.lock-waf_linux_build
