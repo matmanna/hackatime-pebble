@@ -5,6 +5,13 @@ i asked my clanker to make ts for my pebble time 2 so i can track my likelihood 
 
 <img width="200" alt="watch with hackatime stats on it" src="https://github.com/user-attachments/assets/0d4fe356-48c9-4e99-b3ff-e30c74d747b7" />
 
+**usage:**
+
+1. enable 'public stats' under hackatime [privacy](https://hackatime.hackclub.com/my/settings/privacy) settings
+2. install the app on your pebble
+3. enter your hackatime username under app settings
+4. profit
+
 **currently, the app displays:**
 
 - total coding time for the day
@@ -25,7 +32,9 @@ i asked my clanker to make ts for my pebble time 2 so i can track my likelihood 
 - [x] tap center button to refresh
 - [ ] icons so pretty
 - [ ] touchscreen
+- [ ] oauth or smth so public stats isn't needed
 - [ ] thumbnail
+- [ ] development instructions
 
 - [ ] publish to pebble store
 - [ ] js cuz c 🤢
