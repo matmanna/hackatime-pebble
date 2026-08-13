@@ -22,9 +22,10 @@ i asked my clanker to make ts for my pebble time 2 so i can track activities whi
 
 **some other stuff left to implement:**
 
-- icons so pretty
-- touchscreen
-- thumbnail
+- [x] tap center button to refresh
+- [ ] icons so pretty
+- [ ] touchscreen
+- [ ] thumbnail
 
-- publish to pebble store
-- js cuz c 🤢
+- [ ] publish to pebble store
+- [ ] js cuz c 🤢
